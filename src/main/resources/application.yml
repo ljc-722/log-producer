@@ -1,0 +1,7 @@
+server:
+  port: 9000
+
+rmq:
+  endpoint: 172.27.153.121:8081
+#  需要填写自己rmqproxy的（运行中的）内网地址
+  topic: TAH
